@@ -365,18 +365,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-i-have-started-my-undergraduate-studies-at-the-university-of-cambridge-under-the-natural-sciences-biological-program",
           title: 'I have started my undergraduate studies at the University of Cambridge under the...',
           description: "",
           section: "News",},{id: "news-i-have-graduated-from-university-of-cambridge-with-a-ba-in-biochemistry-and-msci-in-systems-biology-1st-class",
           title: 'I have graduated from University of Cambridge with a BA in Biochemistry and...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-our-paper-paradigms-of-convergent-evolution-in-enzymes-is-now-published-in-febs-journal",
+          title: 'Our paper “Paradigms of convergent evolution in enzymes” is now published in FEBS...',
+          description: "",
+          section: "News",},{id: "news-our-preprint-quot-unified-genomic-and-chemical-representations-enable-bidirectional-bio-synthetic-gene-cluster-and-natural-product-retrieval-quot-is-now-on-biorxiv",
+          title: 'Our preprint &amp;quot;Unified Genomic and Chemical Representations Enable Bidirectional Bio-synthetic Gene Cluster and...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/bgc_paper/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
