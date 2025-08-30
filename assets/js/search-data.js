@@ -379,7 +379,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/bgc_paper/";
-            },},{id: "projects-project-1",
+            },},{id: "news-i-have-started-my-phd-in-computational-biology-and-modelling-at-the-scripps-research-institute-la-jolla",
+          title: 'I have started my PhD in Computational Biology and Modelling at The Scripps...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
