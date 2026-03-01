@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-08-01
+date: 2025-12-05
 inline: true
 related_posts: false
 ---
 
-I have started my PhD in Computational Biology and Modelling at The Scripps Research Institute (La Jolla)!
+Our paper "Design of a Labile RNase A Using Protein Language Models" has been published and featured on the cover of ACS Synthetic Biology!
