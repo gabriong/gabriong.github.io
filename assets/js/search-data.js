@@ -374,18 +374,18 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-paradigms-of-convergent-evolution-in-enzymes-is-now-published-in-febs-journal",
           title: 'Our paper “Paradigms of convergent evolution in enzymes” is now published in FEBS...',
           description: "",
-          section: "News",},{id: "news-our-preprint-quot-unified-genomic-and-chemical-representations-enable-bidirectional-bio-synthetic-gene-cluster-and-natural-product-retrieval-quot-is-now-on-biorxiv",
-          title: 'Our preprint &amp;quot;Unified Genomic and Chemical Representations Enable Bidirectional Bio-synthetic Gene Cluster and...',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/bgc_paper/";
-            },},{id: "news-i-have-started-my-phd-in-computational-biology-and-modelling-at-the-scripps-research-institute-la-jolla",
+          section: "News",},{id: "news-i-have-started-my-phd-in-computational-biology-and-modelling-at-the-scripps-research-institute-la-jolla",
           title: 'I have started my PhD in Computational Biology and Modelling at The Scripps...',
           description: "",
           section: "News",},{id: "news-our-paper-design-of-a-labile-rnase-a-using-protein-language-models-has-been-published-and-featured-on-the-cover-of-acs-synthetic-biology",
           title: 'Our paper “Design of a Labile RNase A Using Protein Language Models” has...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-our-paper-quot-unified-genomic-and-chemical-representations-enable-bidirectional-bio-synthetic-gene-cluster-and-natural-product-retrieval-quot-is-now-on-scientific-reports",
+          title: 'Our paper &amp;quot;Unified Genomic and Chemical Representations Enable Bidirectional Bio-synthetic Gene Cluster and...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/bgc_paper/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
