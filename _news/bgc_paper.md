@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Our preprint "Unified Genomic and Chemical Representations Enable Bidirectional Bio-synthetic Gene Cluster and Natural Product Retrieval" is now on bioRxiv!
-date: 2025-05-31
+title: Our paper "Unified Genomic and Chemical Representations Enable Bidirectional Bio-synthetic Gene Cluster and Natural Product Retrieval" is now on Scientific Reports!
+date: 2026-05-09
 inline: false
 related_posts: false
 ---
@@ -10,7 +10,7 @@ related_posts: false
 
 💥In our latest work, we're aiming to do something similar… but for genomes (biology) and molecules (chemistry)!
 
-📄 Read the preprint here: [https://www.biorxiv.org/content/10.1101/2025.05.31.656985v1.full](https://www.biorxiv.org/content/10.1101/2025.05.31.656985v1.full)
+📄 Read the paper [here](https://www.nature.com/articles/s41598-026-49955-5)!
 
 🔍 What’s the challenge?
 Microbial genomes contain biosynthetic gene clusters (BGCs) responsible for producing specialized metabolites, many of which are useful to us as pharmaceuticals, fragrances, and more! However, mapping BGCs to their chemical products, and vice versa, has been a bottleneck due to the complex relationship between a BGC's nucleotide sequence and the molecular structure of its chemical product. DNA and chemicals "speak" fundamentally different languages: one is a linear string of genetic code, the other is a tangled 3D web of atoms and bonds.
